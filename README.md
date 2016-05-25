@@ -15,7 +15,7 @@ A CMS for system starter kit. **Dermaga** means wharf in English, and so this CM
 2. Run ```composer update``` in your project root directory to get all vendor files
 3. Create a database and change ```dbname``` part in ```config/db.php``` to one you created just now
 4. Run ```yii init``` in your project root directory to set up the database
-5. Portal can be access at, example: ```http://localhost/dermaga-lite/web```
+5. Access the CMS at, example: ```http://localhost/dermaga-lite/web```
 
 Super User username/password: root/1qaz2wsx
 
