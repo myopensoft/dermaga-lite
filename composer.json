@@ -18,10 +18,13 @@
         "yiisoft/yii2": ">=2.0.5",
         "yiisoft/yii2-bootstrap": "*",
         "yiisoft/yii2-swiftmailer": "*",
-		"codemix/yii2-localeurls": "*",
+        "codemix/yii2-localeurls": "*",
         "dmstr/yii2-adminlte-asset": "2.*",
         "dektrium/yii2-user": "0.9.*@dev",
         "dektrium/yii2-rbac": "dev-master",
+        "mihaildev/yii2-ckeditor": "*",
+        "mihaildev/yii2-elfinder": "*",
+        "2amigos/yii2-file-upload-widget": "~1.0",
         "mpdf/mpdf":"*"
     },
     "require-dev": {

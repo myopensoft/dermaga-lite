@@ -6,8 +6,7 @@ class m160525_042323_insert_root_user extends Migration
 {
     public function up()
     {
-        $this->insert('user',array(
-            'id'=>1,
+        $this->insert('user', array(
             'username' =>'root',
             'email' => 'root@dermaga.org',
             'password_hash' => '$2y$10$OCdc.CK/FmkaAi1yjd4N6ubKn1NoGBk4dkfa1mVoL05oOPSdebkna',
