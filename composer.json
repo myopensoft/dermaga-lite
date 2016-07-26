@@ -1,16 +1,16 @@
 {
-    "name": "yiisoft/yii2-app-basic",
-    "description": "Yii 2 Basic Project Template",
-    "keywords": ["yii2", "framework", "basic", "project template"],
-    "homepage": "http://www.yiiframework.com/",
+    "name": "myopensoft/dermaga-lite",
+    "description": "Dermaga CMS (Lite version)",
+    "keywords": ["yii2", "framework", "cms", "yii2 cms base app"],
+    "homepage": "http://dermaga-lite.github.io",
     "type": "project",
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/yiisoft/yii2/issues?state=open",
-        "forum": "http://www.yiiframework.com/forum/",
-        "wiki": "http://www.yiiframework.com/wiki/",
-        "irc": "irc://irc.freenode.net/yii",
-        "source": "https://github.com/yiisoft/yii2"
+        "issues": "https://github.com/myopensoft/dermaga-lite/issues?state=open",
+        "forum": "",
+        "wiki": "https://github.com/myopensoft/dermaga-lite/wiki",
+        "irc": "",
+        "source": "https://github.com/myopensoft/dermaga-lite"
     },
     "minimum-stability": "stable",
     "require": {
