@@ -1,6 +1,6 @@
-# Dermaga CMS (Lite Version) by Opensoft Technologies
+# Dermaga CMS (Lite Version)
 
-A CMS for system starter kit. **Dermaga** means wharf in English, and so this CMS aims to become the wharf for data and information. 
+A CMS for system starter kit. **Dermaga** means wharf in English, and so this CMS aims to become the wharf for data and information.
 
 ## Features
 * User management
@@ -25,3 +25,6 @@ Console command for generating all models & CRUDs from connected database tables
 Usage:
 * Go to command line in project root ex. c:\xampp\htdocs\dermaga-lite
 * To generate all models & CRUDs for your tables, run ```yii autobot/rollout```
+
+
+*Project sponsored by Opensoft Technologies Sdn Bhd*
