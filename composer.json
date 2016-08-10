@@ -2,14 +2,14 @@
     "name": "myopensoft/dermaga-lite",
     "description": "Dermaga CMS (Lite version)",
     "keywords": ["yii2", "framework", "cms", "yii2 cms base app"],
-    "homepage": "http://dermaga-lite.github.io",
+    "homepage": "https://myopensoft.github.io/dermaga-lite.web/",
     "type": "project",
     "license": "BSD-3-Clause",
     "support": {
         "issues": "https://github.com/myopensoft/dermaga-lite/issues?state=open",
-        "forum": "",
+        "forum": "https://github.com/myopensoft/dermaga-lite/wiki",
         "wiki": "https://github.com/myopensoft/dermaga-lite/wiki",
-        "irc": "",
+        "irc": "https://github.com/myopensoft/dermaga-lite/wiki",
         "source": "https://github.com/myopensoft/dermaga-lite"
     },
     "minimum-stability": "stable",
